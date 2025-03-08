@@ -1,4 +1,4 @@
-module github.com/calmw/bridge-log
+module github.com/calmw/blog
 
 go 1.22.2
 
