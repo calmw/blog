@@ -1,4 +1,4 @@
-module github.com/calmw/blog
+module github.com/calmw/clog
 
 go 1.22.2
 
