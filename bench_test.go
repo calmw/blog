@@ -1,7 +1,7 @@
 //go:build go1.
-// +build go1.3
+// +build go1.
 
-package log15
+package clog
 
 import (
 	"bytes"

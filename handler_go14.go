@@ -1,7 +1,7 @@
 //go:build go1.4
 // +build go1.4
 
-package log15
+package clog
 
 import "sync/atomic"
 
